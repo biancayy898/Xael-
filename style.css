@@ -1,0 +1,78 @@
+h1{
+    color: rgb(23, 67, 212);
+    
+    font-size: 80px;
+    font-family:fantasy;
+    font-weight: bold;
+    text-shadow: 5px 5px 30px rgb(57, 57, 61) ;
+    text-align: center;
+    letter-spacing: 5px;
+    font-family: 'Playfair Display', serif;
+    text-decoration:underline;
+}
+
+body{
+    background-color: rgb(166, 219, 243);
+     background: linear-gradient(135deg, rgb(166, 219, 243), rgb(200, 230, 255));
+    
+}
+
+h2{
+    font-weight: bold ;
+    font-style: italic;
+    text-transform: uppercase;
+    color: rgb(50, 113, 230);
+    font-size:20px ;
+}
+p{
+    text-align: center;
+    text-indent: 2px;
+    color: rgb(17, 18, 19);
+    border: 2px solid rgb(49, 46, 211);
+    border-image: fill;
+    box-shadow: 0px 0px 30px rgb(125, 138, 211);
+    font-style: italic;
+    font-size: 17px;
+    
+}
+
+img{
+    height: 50%;
+    width: 50%;
+    border: 5px solid rgb(22, 56, 151) ;
+    border-style:ridge;
+    border-radius:5px ;
+    text-align: center;
+    
+}
+
+h3{
+    font-weight: bold ;
+    font-style: italic;
+    text-transform: uppercase;
+    color: rgb(50, 113, 230);
+    font-size:20px ;
+}
+
+h4{
+   font-weight: bold ;
+    font-style: italic;
+    text-transform: uppercase;
+    color: rgb(50, 113, 230);
+    font-size:20px ;
+
+}
+
+h5{
+    font-weight: bold ;
+    font-style: italic;
+    text-transform: uppercase;
+    color: rgb(50, 113, 230);
+    font-size:20px ;
+}
+img:hover{
+    transform: scale(1.05);
+    box-shadow: 0px 0px 40px rgba(0,0,0,0.3);
+}
+
+
